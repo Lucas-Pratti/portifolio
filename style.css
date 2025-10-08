@@ -38,7 +38,7 @@
       }
 
       #SecaoUm img:hover {
-        content: url("Imagens/esqueeto.png");
+        content: url("./esqueeto.png");
         width: 400px;
         transition: 1s;
       }

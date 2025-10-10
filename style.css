@@ -136,7 +136,7 @@ main {
 }
 
 #SecaoUm img:hover {
-  content: url("Imagens/esqueeto.png");
+  content: url("./download.png");
   width: 400px;
   transition: 1s;
 }
